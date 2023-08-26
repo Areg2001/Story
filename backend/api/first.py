@@ -2,7 +2,7 @@ from hugchat.login import Login
 from hugchat import hugchat
 
 # login hugging chat
-sign = Login('picsart.project.tei@gmail.com', 'Story teller123')
+sign = Login('tale.lab.ai@gmail.com', 'Tale_lab_2023')
 cookies = sign.login()
 
 # save cookies
