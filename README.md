@@ -56,7 +56,7 @@ The `voice_sentiment` table captures sentiment analysis of the user's voice, pro
 - **sentiment_score**: Numerical score representing the sentiment of the voice.
 - **confidence_level**: Confidence in the sentiment score provided.
 
-![Alt Text](/Users/aregmelqonyan/Desktop/schema.png)
+![Alt Text](/backend/schema.png)
 
 ## Guidelines for Maintaining and Extending the Pipeline
 
