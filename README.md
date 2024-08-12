@@ -90,7 +90,3 @@ The `voice_sentiment` table captures sentiment analysis of the user's voice, pro
 - Data entering the pipeline is assumed to be clean and conform to expected formats, including valid timestamps, user IDs, and metric values.
 - Data consistency is assumed, following the expected format.
 
-## Validation
-
-- Basic validation of data types and constraints is performed to ensure data integrity.
-
