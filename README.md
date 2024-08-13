@@ -25,6 +25,7 @@ You can directly execute API requests from the Swagger UI:
 ## 4. Request/Response Example
 
 Each endpoint shows examples of the request body (if applicable) and the expected response. This helps in understanding the data structure and format required for the API interactions.
+![Alt Text](/backend/request_response.png)
 
 # Database Schema and Pipeline Documentation
 
