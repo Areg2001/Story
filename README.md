@@ -30,13 +30,13 @@ Each endpoint shows examples of the request body (if applicable) and the expecte
 ## 5. Example Usage:
 
 - **Post user_metric**: After that, trigger automatically created row in talked_time table with defalut values.
-![Alt Text](/backend/post.png)
+  ![Alt Text](/backend/post.png)
 - **Take metric_id**
-![Alt Text](/backend/return_id.png)
+  ![Alt Text](/backend/return_id.png)
 - **Find metric record_id from talked_time table**
-![Alt Text](/backend/finding_record_id.png)
+  ![Alt Text](/backend/finding_record_id.png)
 - **Change fields**
-![Alt Text](/backend/put.png)
+  ![Alt Text](/backend/put.png)
 - **Calculate user total talked time with user_id and session_id**
 ![Alt Text](/backend/total.png)
 
