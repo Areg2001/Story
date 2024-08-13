@@ -3,6 +3,7 @@
 ## 1. Accessing Swagger UI
 
 Open your browser and go to [http://localhost:8000/docs]. You’ll see the Swagger UI, which provides an interactive interface for your API.
+![Alt Text](/backend/url)
 
 ## 2. Exploring Endpoints
 
@@ -10,6 +11,7 @@ The main page lists all available API endpoints. Each endpoint is organized by t
 
 - **Expand a Tag**: Click on a tag to expand it and see the available endpoints under that category.
 - **View Endpoint Details**: Click on an endpoint to view its details, including request parameters, response format, and status codes.
+![Alt Text](/backend/endpoints)
 
 ## 3. Executing Requests
 
@@ -17,6 +19,7 @@ You can directly execute API requests from the Swagger UI:
 
 - **Click "Try it out"**: When you click this button on an endpoint, you’ll be able to enter any required parameters.
 - **Execute**: After entering the parameters, click the **Execute** button. The results, including the status code, response body, and headers, will be displayed.
+![Alt Text](/backend/try_it)
 
 ## 4. Request/Response Example
 
