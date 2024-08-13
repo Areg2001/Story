@@ -27,18 +27,18 @@ You can directly execute API requests from the Swagger UI:
 Each endpoint shows examples of the request body (if applicable) and the expected response. This helps in understanding the data structure and format required for the API interactions.
 ![Alt Text](/backend/request_response.png)
 
-## 5. Example Usage:
+## 5. Example Usage
 
-- **Post user_metric**: After that, trigger automatically created row in talked_time table with defalut values.
-  ![Alt Text](/backend/post.png)
-- **Take metric_id**
-  ![Alt Text](/backend/return_id.png)
-- **Find metric record_id from talked_time table**
-  ![Alt Text](/backend/finding_record_id.png)
-- **Change fields**
-  ![Alt Text](/backend/put.png)
-- **Calculate user total talked time with user_id and session_id**
-![Alt Text](/backend/total.png)
+- **Post user_metric**: After posting, a row is automatically created in the `talked_time` table with default values.
+  ![Post user_metric](/backend/post.png)
+- **Retrieve metric_id**: Obtain the `metric_id` from the response.
+  ![Retrieve metric_id](/backend/return_id.png)
+- **Find metric record_id**: Locate the `record_id` in the `talked_time` table using the `metric_id`.
+  ![Find metric record_id](/backend/finding_record_id.png)
+- **Update Fields**: Modify the fields of the record in the `talked_time` table.
+  ![Update Fields](/backend/put.png)
+- **Calculate Total Talked Time**: Calculate the total talked time for a user using `user_id` and `session_id`.
+  ![Calculate Total Talked Time](/backend/total.png)
 
 # Database Schema and Pipeline Documentation
 
