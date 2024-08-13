@@ -11,6 +11,7 @@ The main page lists all available API endpoints. Each endpoint is organized by t
 
 - **Expand a Tag**: Click on a tag to expand it and see the available endpoints under that category.
 - **View Endpoint Details**: Click on an endpoint to view its details, including request parameters, response format, and status codes.
+![Alt Text](/backend/endpoints.png)
 
 
 ## 3. Executing Requests
