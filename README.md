@@ -2,7 +2,7 @@
 
 ## 1. Accessing Swagger UI
 
-Open your browser and go to [http://localhost:8000/docs]. You’ll see the Swagger UI, which provides an interactive interface for your API.
+Open your browser and go to [http://localhost:8000/docs](http://localhost:8000/docs). You’ll see the Swagger UI, which provides an interactive interface for your API.
 ![Alt Text](/backend/url.png)
 
 ## 2. Exploring Endpoints
